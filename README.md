@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @gabriel-conde
-- 👀 I’m interested in computer science and web development. I create solutions to the problems in our community.
-- 🌱 I’m currently learning the **MEAN Stack**.
-- 🐍 I'm currently learning **Python**.
-- 💞️ I’m looking to collaborate on web development projects.
-- 📫 How to reach me gabrielluisconde@gmail.com
+![Github](https://user-images.githubusercontent.com/78623654/120910395-7b591700-c633-11eb-9f6a-b837c22c653e.png)
 
-<!---
-gabriel-conde/gabriel-conde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hey there, I'm Gabriel 👋
+
+#### I'm a Developer, Designer, and Founder of the Computer Science Achievement Program
+
+- 👨‍💻 I'm currently a mentor to middle school boys at Teens Exploring Technology
+- 📚 I'm currently learning Full Stack Development
+- 🤝 I'm looking to collaborate on open source projects
+- ⚡ Fun fact: I love to play guitar and dance
+
+### Connect with me:
+
+
