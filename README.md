@@ -1,6 +1,8 @@
-![Github](https://user-images.githubusercontent.com/78623654/120910395-7b591700-c633-11eb-9f6a-b837c22c653e.png)
+![Github-2](https://user-images.githubusercontent.com/78623654/120910511-60d36d80-c634-11eb-83ae-a59e839c4c37.png)
 
 ## Hey there, I'm Gabriel 👋
+
+#### I currently live in Los Angeles, Cali. 
 
 #### I'm a Developer, Designer, and Founder of the Computer Science Achievement Program
 
@@ -8,7 +10,8 @@
 - 📚 I'm currently learning Full Stack Development
 - 🤝 I'm looking to collaborate on open source projects
 - ⚡ Fun fact: I love to play guitar and dance
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-conde&langs_count=8&layout=compact&center=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Connect with me:
 
 
