@@ -7,7 +7,7 @@
 
 - 💡 My journey into coding began when I participated in Urban TXT's Teens Exploring Technology program. Urban TXT focuses on youth development, teaching students to meet the challenges of adolescence and adulthood to achieve their full potentials.
 
-- 🌱 Inspired by my experience with Urban TXT, I developed a keen interest in coding and its potential to create positive change. I was particularly drawn to full-stack development, which involves working with all the technologies required to develop an idea into a finished product. Urban TXT's emphasis on teaching coding languages empowered me to make an informed decision about pursuing computer science as a major.
+- 🌱 Inspired by my experience with Urban TXT, I developed a keen interest in coding and its potential to create positive change. I was particularly drawn to full-stack development, which involves working with all the technologies required to develop an idea into a finished product. Urban TXT's emphasis on teaching coding languages empowered me to make an informed decision about pursuing a career in coding.
 
 ## 💻 Why Web Development?
 
