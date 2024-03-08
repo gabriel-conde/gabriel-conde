@@ -1,4 +1,4 @@
-![Alt Text](Gabriel-Conde.png)
+![Alt Text](Gabriel Conde.png)
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" target="_blank"/>
 
 My name is Gabriel Conde and I'm a Frontend Developer in Los Angeles. I'm from Oxnard, living in LA and currently working at <a href="https://exploringtech.org/home">Teens Exploring Technology</a>. You can also find me on <a href="https://www.linkedin.com/in/gabriel-conde/">LinkedIn</a>.
