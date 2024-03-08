@@ -1,61 +1,32 @@
 ![Alt Text](Gabriel-Conde.png)
 # I'm Gabriel, a dedicated learner on a mission to master the world of computer programming and full-stack web development. 🌐💻 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" target="_blank"/>
 
-My name is Gabriel Conde and I'm a Frontend Developer in Los Angeles. I'm from Oxnard, living in LA and currently working at <a href="https://exploringtech.org/home">Teens Exploring Technology</a>. You can also find me on <a href="https://www.linkedin.com/in/gabriel-conde/">LinkedIn</a>.
+## 📚 Education & Background
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=274C77)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=274C77)
-<!--## &#x270d; Blog & Writing
+- 🎓 Currently, I'm attending Santa Monica College, where I'm studying computer programming and honing my skills in software development.
 
-<!--
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+- 💡 My journey into coding began when I participated in Urban TXT's Teens Exploring Technology program. Urban TXT focuses on youth development, teaching students to meet the challenges of adolescence and adulthood to achieve their full potentials.
 
-A sample of my recent articles:
+- 🌱 Inspired by my experience with Urban TXT, I developed a keen interest in coding and its potential to create positive change. I was particularly drawn to full-stack development, which involves working with all the technologies required to develop an idea into a finished product. Urban TXT's emphasis on teaching coding languages empowered me to make an informed decision about pursuing computer science as a major.
 
-<!-- BLOG-POST-LIST:START -->
-<!--- [Advanced Features of Kubernetes&#39; Horizontal Pod Autoscaler](https://martinheinz.dev/blog/76)
-- [Data and System Visualization Tools That Will Boost Your Productivity](https://martinheinz.dev/blog/75)
-- [Stop Messing with Kubernetes Finalizers](https://martinheinz.dev/blog/74)
-- [Automate All the Boring Kubernetes Operations with Python](https://martinheinz.dev/blog/73)
-<!-- BLOG-POST-LIST:END -->
+## 💻 Why Web Development?
 
-## &#x1f4c8; GitHub Stats
+- 🚀 I'm passionate about technology and the limitless possibilities it offers for innovation and creativity.
+- 💡 Web development, in particular, captivates me because of its dynamic nature, rapid evolution, and its potential to impact people's lives globally.
+- 🌟 I believe that mastering web development will empower me to bring my ideas to life, build meaningful projects, and contribute to solving real-world problems.
 
-<a href="https://github.com/gabriel-conde/gabriel-conde">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-conde&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=274C77a&bg_color=274C77&langs_count=4" />
-</a>
-<a href="https://github.com/gabriel-conde/gabriel-conde">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-conde&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=274C77a&bg_color=274C77" alt="Martin's GitHub Stats" />
-</a>
+## 🛠️ Self-Teaching Resources
 
-<!-- <a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+I'm an avid self-learner, constantly exploring various resources to enhance my knowledge and skills in web development. Here are some of the resources I frequently use:
 
+- **FreeCodeCamp**: I'm actively engaged in FreeCodeCamp's curriculum, which offers a comprehensive and interactive approach to learning web development, including HTML, CSS, JavaScript, and more.
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+- **Dr. Angela Yu's Full Stack Web Development Course**: I'm currently enrolled in Dr. Angela Yu's highly acclaimed course on Udemy, where I'm learning the ins and outs of full-stack web development using modern technologies like HTML, CSS, JavaScript, React.js, Node.js, and MongoDB.
 
--->
+- **Boot.dev**: Boot.dev is a unique platform that I utilize for focused backend development learning. This platform stands out in the online learning space for its laser focus on teaching backend development, which is somewhat rare. Moreover, Boot.dev addresses the challenge of boredom in online learning, making the learning experience engaging and effective.
 
-<!-- links to social media icons -->
+In addition to these resources, I also explore other platforms, books, and documentation to further expand my expertise in web development.
 
-<!-- icons with padding -->
+## 📫 Let's Connect
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+If you share similar interests in computer programming and web development, or if you have any suggestions for resources or projects, I'd love to connect with you! Feel free to reach out via email at [gabrielluisconde@gmail.com](mailto:gabrielluisconde@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gabriel-conde). Let's learn and grow together!
