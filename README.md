@@ -1,9 +1,5 @@
 ![Alt Text](Gabriel-Conde.png)
-# I'm Gabriel, a dedicated learner on a mission to master the world of computer programming and full-stack web development. 🌐💻 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" target="_blank"/>
-
-## 📚 Education & Background
-
-- 🎓 Currently, I'm attending Santa Monica College, where I'm studying computer programming and honing my skills in software development.
+# I'm a backend developer dedicated to mastering modern web technologies and building scalable, secure systems. I’m currently focused on Python, TypeScript, SQL, and developing real-world projects. 🌐💻 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" target="_blank"/>
 
 - 💡 My journey into coding began when I participated in Urban TXT's Teens Exploring Technology program. Urban TXT focuses on youth development, teaching students to meet the challenges of adolescence and adulthood to achieve their full potentials.
 
