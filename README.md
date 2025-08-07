@@ -1,5 +1,5 @@
 ![Alt Text](Gabriel-Conde.png)
-# I'm a backend developer dedicated to mastering modern web technologies and building scalable, secure systems. I’m currently focused on Python, TypeScript, SQL, and developing real-world projects. 🌐💻 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" target="_blank"/>
+# I'm Gabriel. I’m currently focused on back-end development specifically in Python, TypeScript, SQL, and Docker 🌐💻 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" target="_blank"/>
 
 - 💡 My journey into coding began when I participated in Urban TXT's Teens Exploring Technology program. Urban TXT focuses on youth development, teaching students to meet the challenges of adolescence and adulthood to achieve their full potentials.
 
