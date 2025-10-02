@@ -1,5 +1,5 @@
 ![Alt Text](Gabriel-Conde.png)
-# I’m currently focused on back-end development specifically in Python 🌐💻 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" target="_blank"/>
+# I’m currently focused on back-end development 🌐💻 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" target="_blank"/>
 
 - 💡 My journey into programming began when I participated in Urban TXT's Teens Exploring Technology program. Urban TXT focuses on youth development through programming, teaching students to meet the challenges of adolescence and adulthood to achieve their full potentials.
 
